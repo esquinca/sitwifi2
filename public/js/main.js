@@ -232,4 +232,12 @@ jQuery(function($) {'use strict';
 	}
 	google.maps.event.addDomListener(window, 'load', initialize_map);
 */
+	$(document).ready(function(){
+     	$('#slider').bxSlider({
+	  		ticker: true,
+	  		tickerSpeed: 5000,
+			tickerHover: true
+  		});
+  	});
+
 });

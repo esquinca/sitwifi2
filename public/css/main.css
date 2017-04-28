@@ -1064,3 +1064,33 @@ margin-top: -10px;
 .fancy-collapse-panel .panel-heading a.collapsed:after {
 content: "\f196";
 }
+
+/**********************************
+Slider - Productos y Clientes.
+**********************************/
+
+#slider {
+  list-style:none;
+  padding:0px
+}
+
+.slider-container { 
+  background:#fff; 
+  width: auto; 
+  height: auto; 
+  padding:20px; 
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px; 
+}
+
+#slider img { 
+  width:180px; 
+  height:160px; 
+  margin:0px; 
+  display:inline-block  
+}
+
+#slider li {
+  width:210px
+}

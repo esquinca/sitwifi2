@@ -52,7 +52,7 @@
                               <img class="img-responsive" src="../img/clientes/client13.png" alt="UNITEC">
                             </div>
                             <div class="col-xs-2 col-sm-4 col-md-6 col-lg-6">
-                              <img class="img-responsive" src="../img/clientes/cliente_30.png" alt="XCARET">
+                              <img class="img-responsive" src="../img/clientes/client30.png" alt="XCARET">
                             </div>
                             <div class="col-xs-2 col-sm-4 col-md-6 col-lg-6">
                               <img class="img-responsive" src="../img/clientes/client05.png" alt="Karisma">

@@ -27,7 +27,6 @@
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
   <!-- Ionicons -->
   <link href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css" />
-
   <!-- Floating Button css -->
   <!--
   <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
