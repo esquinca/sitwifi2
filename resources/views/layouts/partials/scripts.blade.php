@@ -14,4 +14,11 @@
 <!-- Slider Productos y Clientes -->
 <script src="js/jquery.bxSlider.js"></script>
 
+
+<script type="text/javascript" src="js/percircle.js"></script>
+<script type="text/javascript">
+    $(function(){
+        $("#bluecircle").percircle();
+    });
+</script>
 @stack('scripts')

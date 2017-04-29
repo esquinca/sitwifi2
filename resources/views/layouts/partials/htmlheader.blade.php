@@ -28,6 +28,8 @@
   <!-- Ionicons -->
   <link href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css" />
   <!-- Floating Button css -->
+  <link rel="stylesheet" href="{{ asset('/css/percircle.css') }}">
+
   <!--
   <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/Material-Floating/collapzion.min.css" rel="stylesheet" type="text/css">

@@ -135,7 +135,7 @@ Manejamos equipo: Ruckus, Cisco, Dell, HP, Panduit, etc.',
   //NPS
   'title_nps' => 'NPS',
   'title_puntacion' => 'Puntuación',
-  'title_puntacion_abrev' => '',
+  'title_puntacion_abrev' => 'Representación',
 
   'title_puntacion_hot' => 'Hotelería',
   'title_puntacion_edu' => 'Educación',

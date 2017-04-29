@@ -8,6 +8,7 @@
         <div class="row">
             <div class="col-sm-4">
               <h3 class="column-title">{{ trans('text.title_puntacion_abrev')}}</h3>
+              <div id="bluecircle" data-percent="92" class="big"></div>
             </div>
             <div class="col-sm-8">
                 <h3 class="column-title">{{ trans('text.title_puntacion')}}</h3>
