@@ -1,5 +1,13 @@
-jQuery(function($) {'use strict';
+$('#lang_en').on('click', function(){
+	window.location="{{URL::to('home')}}";
+});
 
+$('#lang_es').on('click', function(){
+	window.location="{{ url('lang/es') }}";
+});
+
+
+jQuery(function($) {'use strict';
 	// Navigation Scroll
 	$(window).scroll(function(event) {
 		Scroll();

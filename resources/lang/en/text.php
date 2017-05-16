@@ -9,14 +9,14 @@ return [
   */
 
   //Titles Navbar
-  'home' => 'Inicio',
-  'company' => 'Conócenos',
+  'home' => 'Start',
+  'company' => 'Know us',
   'service' => 'Servicios',
-  'products' => 'Productos',
-  'customers' => 'Clientes',
+  'products' => 'Products',
+  'customers' => 'Customers',
   'wifimedia' => 'WifiMedia',
   'freewifi' => 'Free Wifi',
-  'contact' => 'Contacto',
+  'contact' => 'Contact',
   'solutions' => 'Soluciones',
   'about' => 'Contamos',
   'contactanos' => 'Contáctanos',
