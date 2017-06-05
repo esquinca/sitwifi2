@@ -45,7 +45,7 @@
                  <div class="form-group">
                    <select  name="producto" id="producto" class="form-control" data-rule="required:true" data-msg="Por favor seleccione un elemento.">
                      <option value="">Selecciona un servicio</option>
-                     <option value="Servicio administrado de Wifi">Servicio administrado de Wifi</option>
+                     <option value="Servicio administrado">Servicio administrado</option>
                      <option value="Ingenieria de proyectos">Ingeniería de proyectos</option>
                      <option value="Poliza de servicios">Póliza de servicios</option>
                      <option value="Infraestructura">Infraestructura</option>

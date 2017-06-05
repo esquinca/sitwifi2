@@ -2,7 +2,8 @@
     <div class="container">
         <div class="section-header">
             <h2 class="section-title text-center wow fadeInDown"><?php echo e(trans('text.title_nps')); ?></h2>
-            <p class="text-center wow fadeInDown"></p>
+            <p class="text-center wow fadeInDown"><?php echo e(trans('text.content_title_nps')); ?></p>
+
         </div>
 
         <div class="row">
@@ -24,6 +25,9 @@
                 <div class="progress">
                     <div class="progress-bar progress-bar-primary" role="progressbar" data-width="76">76%</div>
                 </div>
+            </div>
+            <div class="col-sm-12">
+              <strong><?php echo e(trans('text.title_puntacion_mes')); ?></strong>
             </div>
         </div>
     </div>

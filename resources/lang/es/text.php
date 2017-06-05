@@ -30,13 +30,13 @@ return [
   'title_one' => 'Cómo funciona',
   'content_one' => 'Nuestro compromiso es brindar un servicio integral que resuelve sus necesidades de conectividad encargándonos del equipo necesario, la instalación, administración, operación y monitoreo. En Sitwifi contamos con el equilibrio perfecto entre capital humano y tecnología garantizando de esta manera el resultado al que nos comprometemos.',
   //Conocenos
-  'content_know_one' => 'Somos una empresa orgullosamente Mexicana creada hace 10 años, estamos en constante crecimiento e implementación de nuevas tecnologías para brindar la perfecta  solución de conectividad Wifi VoIP y CCTV,  acompañada de las mejores opciones financieras para su empresa.',
-  'content_know_two' => 'Gracias a la aceptación y el reconocimiento de nuestros clientes actualmente contamos con presencia en diversos destinos como Ciudad de México, Cancún, Los Cabos, Puerto Vallarta, Costa Rica, República Dominicana y Jamaica.',
+  'content_know_one' => 'Somos una empresa orgullosamente mexicana creada hace 10 años. Estamos en constante crecimiento e implementación de nueva tecnología para brindar la perfecta  solución de conectividad Wifi VoIP y CCTV,  acompañada de las mejores opciones financieras para su empresa.',
+  'content_know_two' => 'Gracias a la aceptación y el reconocimiento de nuestros clientes actualmente contamos con oficinas en Ciudad de México, Cancún, Los Cabos, Puerto Vallarta, Costa Rica, República Dominicana, Jamaica y tenemos presencia en toda la República Mexicana.',
   //Servicios
   'title_two' => 'Servicios',
   'content_two' => 'En SitWifi nos esforzamos día con día para entregar a nuestros clientes el mejor servicio posible integrando la mejor tecnología a sus soluciones junto con el personal más calificado en el mercado.',
 
-  'subtitle_one' => 'Servicio administrado de Wifi',
+  'subtitle_one' => 'Servicio administrado',
   'cont_subtitle_one' => 'Nos encargamos de la administración, configuración, puesta en marcha, supervisión, soporte técnico y mantenimiento de la infraestructura para proveer un servicio de alto desempeño y siempre disponible para el usuario final. ',
   'cont_subtitle_one_a' => 'Servicio Administrado WiFi',
   'cont_subtitle_one_b' => 'Servicio Administrado WiFi móvil',
@@ -98,11 +98,11 @@ return [
   'title_seven' => 'Infraestructura',
   'content_seven' => 'Actualmente contamos y monitoreamos más de 1100 puntos de acceso en varias ciudades de la República. Estos puntos se encuentran instalados en más de 20 campus de las universidades privadas más importantes del país, con lo cual proporcionamos servicio a una matrícula de más de 100,000 estudiantes. Asimismo, SitWifi brinda atención a 48 hoteles 5 estrellas y Gran Turismo en Cancún, Riviera Maya, Jamaica, Los Cabos y Punta Cana cubriendo más de 25,000 habitaciones. De igual manera, los hospitales privados de mayor reputación de la Ciudad de México cuentan con nuestro servicio.',
   //Conocenos
-  'title_info_one' => '9 Años de experiencia',
+  'title_info_one' => '9 Años de experiencia.. pronto 10 años',
   'cont_title_info_one' => '9 Años',
-  'title_info_two' => '58 Hoteles en el caribe y latinoamérica',
-  'title_info_three' => '5 Millones de Turistas anuales.',
-  'title_info_four' => '52,353 Conexiones Mensuales',
+  'title_info_two' => '58 Hoteles en el Caribe y Latinoamérica',
+  'title_info_three' => '5 Millones de turistas anuales.',
+  'title_info_four' => '52,353 Conexiones mensuales',
 
   //Solutions
 
@@ -145,10 +145,10 @@ return [
   'redes_sociales' => 'Redes Sociales',
   'cont_redes_sociales' => '',
   //Confiabilidad
-  'confiabilidad_one' => 'Confiabilidad de conexión cero desconexiones',
+  'confiabilidad_one' => 'Confiablidad de conexión, cero desconexiones',
   'confiabilidad_two' => 'BYOD (Bring your own device) Habilidad de poder usar sus propios dispositivos: ',
   'confiabilidad_two_one' => 'IPhone, IPad, MP3 Player, PC, Smartphones ',
-  'confiabilidad_three' => 'Contar con acceso WiFi en todas las áreas',
+  'confiabilidad_three' => 'Conexión estable en todas las áreas',
   'confiabilidad_four' => 'Acceso confiable y seguro de alta velocidad',
   'confiabilidad_five' => 'Incrementar el nivel de servicio de mis huéspedes y usuarios ',
   //Nuestros clientes
@@ -157,13 +157,15 @@ return [
   //Infraestructura
   'infrastructure' => 'Infraestructura',
   'cont_infrastructure' => '',
-  'cont_infrastructure_item_one'  => 'En todas nuestras implementaciones utilizamos equipo y material de la más alta calidad y tecnología, que han sido elegidas por su alto desempeño.',
+  'cont_infrastructure_item_one'  => 'En todas nuestras implementaciones utilizamos equipo y material de la más alta calidad, elegidos por su alto desempeño.',
   'cont_infrastructure_item_two'  => 'Realizamos los estudios de cobertura y proporcionamos e instalamos equipos de demostración sin costo alguno para la medición real de nuestro servicio.',
-  'cont_infrastructure_item_three'=> 'Nuestro personal técnico se encuentra certificado en las marcas que utilizamos y continuamente se actualiza en Wireless, seguridad, servidores, etc.',
-  'cont_infrastructure_item_four' => 'Sobre nuestra infraestructura podemos implementar diferentes aplicaciones y soluciones como: CCTV, voz y datos, localización, entre otras, reduciendo costos.',
+  'cont_infrastructure_item_three'=> 'Nuestro personal técnico se encuentra certificado en las marcas que utilizamos y continuamente se actualiza en wireless, seguridad, servidores, etc.',
+  'cont_infrastructure_item_four' => 'Sobre nuestra infraestructura podemos implementar diferentes aplicaciones y soluciones de CCTV, voz, localización, entre otras, reduciendo costos.',
   //NPS
   'title_nps' => 'NPS',
+  'content_title_nps' => 'Net Promoter Score (Nps) es una herramienta que mide la lealtad de nuestros clientes, basandose en sus recomendaciones.',
   'title_puntacion' => 'Puntuación',
+  'title_puntacion_mes' => 'Datos correspondientes a Mayo 2017',
   'title_puntacion_abrev' => 'Representación',
 
   'title_puntacion_hot' => 'Hotelería',

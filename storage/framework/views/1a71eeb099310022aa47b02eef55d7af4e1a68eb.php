@@ -8,7 +8,7 @@
                 <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
                   <div class="media service-box">
                     <div class="pull-left">
-                      <i class="fa fa-cubes"></i>
+                      <i class="fa fa-cogs"></i>
                     </div>
                     <div class="media-body">
                       <h4 class="media-heading"><?php echo e(trans('text.subtitle_one')); ?></h4>
@@ -47,7 +47,7 @@
                 <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
                   <div class="media service-box">
                     <div class="pull-left">
-                      <i class="fa fa-cubes"></i>
+                      <i class="fa fa-user-md"></i>
                     </div>
                     <div class="media-body">
                       <h4 class="media-heading"><?php echo e(trans('text.subtitle_two')); ?></h4>
@@ -65,7 +65,7 @@
                 <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
                   <div class="media service-box">
                     <div class="pull-left">
-                      <i class="fa fa-bar-chart"></i>
+                      <i class="fa fa-cubes"></i>
                     </div>
                     <div class="media-body">
                       <h4 class="media-heading"><?php echo e(trans('text.subtitle_four')); ?></h4>
@@ -84,7 +84,7 @@
                 <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
                   <div class="media service-box">
                     <div class="pull-left">
-                      <i class="fa fa-pie-chart"></i>
+                      <i class="fa fa-star"></i>
                     </div>
                     <div class="media-body">
                       <h4 class="media-heading"><?php echo e(trans('text.subtitle_five')); ?></h4>

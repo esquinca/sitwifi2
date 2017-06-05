@@ -11,7 +11,7 @@
                 <div class="slider-container">
                   <ul id="slider">
                     <li><a href="#"><img src="img/clientes/client01.png"></a></li>
-                    <li><a href="#"><img src="img/clientes/client02.png"></a></li>
+                    <!--<li><a href="#"><img src="img/clientes/client02.png"></a></li>-->
                     <li><a href="#"><img src="img/clientes/client03.png"></a></li>
                     <li><a href="#"><img src="img/clientes/client04.png"></a></li>
                     <li><a href="#"><img src="img/clientes/client05.png"></a></li>
@@ -37,7 +37,7 @@
                     <li><a href="#"><img src="img/clientes/client25.png"></a></li>
                     <li><a href="#"><img src="img/clientes/client26.png"></a></li>
                     <li><a href="#"><img src="img/clientes/client27.png"></a></li>
-                    <li><a href="#"><img src="img/clientes/client28.png"></a></li>
+                    <!--<li><a href="#"><img src="img/clientes/client28.png"></a></li>-->
                     <li><a href="#"><img src="img/clientes/client29.png"></a></li>
                     <li><a href="#"><img src="img/clientes/client30.png"></a></li>
                     <li><a href="#"><img src="img/clientes/client31.png"></a></li>
