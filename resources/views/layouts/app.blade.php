@@ -11,17 +11,18 @@
   <!--Reliability - Confiabilidad-->
   @include('layouts.partials.mainreliability')
   <!--  Contains page content -->
-
+    <!--Know us -Conocenos-->
+    @include('layouts.partials.content_know')
     <!--Service - Servicios-->
     @include('layouts.partials.content_service')
     <!--Solutions - Soluciones-->
-    @include('layouts.partials.content_solutions')
+    <!--include('layouts.partials.content_solutions')-->
     <!--Customers - Clientes-->
     @include('layouts.partials.content_customers')
     <!--Testimonial - Testimonios -->
     @include('layouts.partials.content_testimonial')
     <!--Products - Productos-->
-    @include('layouts.partials.content_products')
+    <!--include('layouts.partials.content_products')-->
     <!--Infrastructure - Infraestructura-->
     @include('layouts.partials.content_infrastructure')
     <!--Free wifi - Gratis Wifi-->

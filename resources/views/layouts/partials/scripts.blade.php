@@ -20,5 +20,19 @@
     $(function(){
         $("#bluecircle").percircle();
     });
+    $('#main-slider a').click(function(e){
+    	e.preventDefault();
+    	$('html, body').stop().animate({scrollTop: $($(this).attr('href')).offset().top}, 1000);
+    });
+    $('#services a').click(function(e){
+      e.preventDefault();
+      $('html, body').stop().animate({scrollTop: $($(this).attr('href')).offset().top}, 1000);
+    });
+
+    $('a.navbar-brand').click(function(e){
+      e.preventDefault();
+      $('html, body').stop().animate({scrollTop: $($(this).attr('href')).offset().top}, 1000);
+    });
+
 </script>
 @stack('scripts')

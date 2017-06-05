@@ -338,10 +338,13 @@ span.title-wifi {
 }
 #services {
   padding: 100px 0 75px;
+  background: #f5f5f5;
+}
+#know{
+  padding: 100px 0;
 }
 #solutions{
   padding: 100px 0;
-  background: #f5f5f5;
 }
 #infrastructure{
   padding: 100px 0;

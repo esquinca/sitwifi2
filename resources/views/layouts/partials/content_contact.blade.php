@@ -1,8 +1,7 @@
 <section id="contactdos">
   <div class="container">
     <div class="section-header">
-        <h2 class="section-title text-center wow fadeInDown">{{ trans('text.title_contacto')}}</h2>
-        <p class="text-center wow fadeInDown">{{ trans('text.content_contacto')}}</p>
+        <h2 class="section-title text-center wow fadeInDown">{{ trans('text.contactanos')}}</h2>
     </div>
     <div class="row">
         <div class="col-sm-6 wow fadeInLeft">
@@ -45,10 +44,12 @@
                <div class="col-md-12 padding-right-zero">
                  <div class="form-group">
                    <select  name="producto" id="producto" class="form-control" data-rule="required:true" data-msg="Por favor seleccione un elemento.">
-                     <option value="">Selecciona un producto</option>
-                     <option value="Wifi Administrado">Wifi Administrado</option>
-                     <option value="Venta  de infraestructura WiFi">Venta  de infraestructura WiFi</option>
-                     <option value="Publicidad con WifiMedia<">Publicidad con WifiMedia.</option>
+                     <option value="">Selecciona un servicio</option>
+                     <option value="Servicio administrado de Wifi">Servicio administrado de Wifi</option>
+                     <option value="Ingenieria de proyectos">Ingeniería de proyectos</option>
+                     <option value="Poliza de servicios">Póliza de servicios</option>
+                     <option value="Infraestructura">Infraestructura</option>
+                     <option value="Pago por evento">Pago por evento</option>
                      <option value="Otros">Otros</option>
                    </select>
                    <div class="validation"></div>

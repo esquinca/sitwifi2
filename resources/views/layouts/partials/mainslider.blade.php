@@ -8,7 +8,7 @@
                             <div class="carousel-content">
                                 <h2><span>¿<span class="title-wifi">{{ trans('text.title_one')}}</span>?</span></h2>
                                 <p>{{ trans('text.content_one')}}</p>
-                                <a class="btn btn-primary btn-lg" href="#">{{ trans('text.sabermas')}}</a>
+                                <a class="btn btn-primary btn-lg" href="#contactdos">{{ trans('text.contactanos')}}</a>
                             </div>
                         </div>
                     </div>
@@ -23,6 +23,8 @@
                             <div class="carousel-content">
                                 <h2><span>¿<span class="title-wifi">{{ trans('text.title_a')}}</span>?</span></h2>
                                 <p>{{ trans('text.content_five')}}</p>
+                                <a class="btn btn-primary btn-lg" href="#contactdos">{{ trans('text.contactanos')}}</a>
+
                             </div>
                         </div>
                     </div>
@@ -37,7 +39,7 @@
                             <div class="carousel-content">
                                 <h2><span><span class="title-wifi">{{ trans('text.title_six')}}</span></span></h2>
                                 <p>{{ trans('text.content_six')}}</p>
-                                <a class="btn btn-primary btn-lg" href="#">{{ trans('text.sabermas')}}</a>
+                                <a class="btn btn-primary btn-lg" href="#customers">{{ trans('text.sabermas')}}</a>
                             </div>
                         </div>
                         <div class="col-sm-6">

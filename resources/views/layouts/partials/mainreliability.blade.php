@@ -12,7 +12,7 @@
                   <h4 class="media-heading">{{ trans('text.title_info_one')}}</h4>
                 </div>
               </div>
-            </div><!--/.col-md-4-->
+            </div>
             <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
               <div class="media service-box">
                 <div class="pull-left">
@@ -22,7 +22,7 @@
                   <h4 class="media-heading">{{ trans('text.title_info_four')}}</h4>
                 </div>
               </div>
-            </div><!--/.col-md-4-->
+            </div>
             <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
               <div class="media service-box">
                 <div class="pull-left">
@@ -32,7 +32,7 @@
                   <h4 class="media-heading">{{ trans('text.title_info_two')}}</h4>
                 </div>
               </div>
-            </div><!--/.col-md-4-->
+            </div>
             <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
               <div class="media service-box">
                 <div class="pull-left">
@@ -42,7 +42,7 @@
                   <h4 class="media-heading">{{ trans('text.title_info_three')}}</h4>
                 </div>
               </div>
-            </div><!--/.col-md-4-->
+            </div>
 
             <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
                 <div class="media service-box">
@@ -53,7 +53,7 @@
                         <h4 class="media-heading">{{ trans('text.confiabilidad_one')}}</h4>
                     </div>
                 </div>
-            </div><!--/.col-md-4-->
+            </div>
 
             <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
                 <div class="media service-box">
@@ -64,7 +64,7 @@
                         <h4 class="media-heading">{{ trans('text.confiabilidad_four')}}</h4>
                     </div>
                 </div>
-            </div><!--/.col-md-4-->
+            </div>
 
             <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
                 <div class="media service-box">
@@ -75,7 +75,7 @@
                         <h4 class="media-heading">{{ trans('text.confiabilidad_three')}}</h4>
                     </div>
                 </div>
-            </div><!--/.col-md-4-->
+            </div>
 
 
             <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
@@ -87,7 +87,7 @@
                         <h4 class="media-heading">{{ trans('text.confiabilidad_five')}}</h4>
                     </div>
                 </div>
-            </div><!--/.col-md-4-->
+            </div>
 
             <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
                 <div class="media service-box">
@@ -99,10 +99,10 @@
                         <p>{{ trans('text.confiabilidad_two_one')}}</p>
                     </div>
                 </div>
-            </div><!--/.col-md-4-->
+            </div>
 
 
           </div>
         </div>
     </div>
-</section><!--/#cta-->
+</section>

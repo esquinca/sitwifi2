@@ -13,14 +13,15 @@
           </div>
           <div class="collapse navbar-collapse navbar-right">
               <ul class="nav navbar-nav">
-                <li class="scroll active"><a href="#home">{{ trans('text.company')}}</a></li>
+                <li class="scroll active"><a href="#home"><span class="fa fa-home" ></span></a></li>
+                <li class="scroll"><a href="#know">{{ trans('text.company')}}</a></li>
                 <li class="scroll"><a href="#services">{{ trans('text.title_two')}}</a></li>
-                <li class="scroll"><a href="#solutions">{{ trans('text.solutions')}}</a></li>
+                <!--<li class="scroll"><a href="#solutions">{{ trans('text.solutions')}}</a></li>-->
                 <li class="scroll"><a href="#customers">{{ trans('text.customers')}}</a></li>
-                <li class="scroll"><a href="#products">{{ trans('text.title_four')}}</a></li>
+                <!--<li class="scroll"><a href="#products">{{ trans('text.title_four')}}</a></li>-->
                 <li class="scroll"><a href="#infrastructure">{{ trans('text.infrastructure')}}</a></li>
-                <li class="scroll"><a href="#contfreewifi">{{ trans('text.freewifi')}}</a></li>
-                <li class="scroll"><a href="#contactdos">{{ trans('text.contact')}}</a></li>
+                <li class="scroll"><a href="#contfreewifi"><span class="fa fa-wifi" ></span></a></li>
+                <li class="scroll"><a href="#contactdos">{{ trans('text.contactanos')}}</a></li>
               </ul>
           </div>
       </div><!--/.container-->
