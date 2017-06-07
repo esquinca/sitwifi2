@@ -63,6 +63,7 @@
                        <div class="validation"></div>
                    </div>
                  <button type="submit" class="btn btn-primary btn-submit">Enviar</button>
+                 <a href="mailto:&#114;&#103;&#111;&#110;&#122;&#097;&#108;&#101;&#122;&#064;&#115;&#105;&#116;&#119;&#105;&#102;&#105;&#046;&#099;&#111;&#109;?subject=Otro" class="btn btn-primary" role="button">@</a>
                </div>
            </form>
          </div>
