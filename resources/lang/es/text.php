@@ -30,7 +30,7 @@ return [
   'title_one' => 'Cómo funciona',
   'content_one' => 'Nuestro compromiso es brindar un servicio integral que resuelve sus necesidades de conectividad encargándonos del equipo necesario, la instalación, administración, operación y monitoreo. En Sitwifi contamos con el equilibrio perfecto entre capital humano y tecnología garantizando de esta manera el resultado al que nos comprometemos.',
   //Conocenos
-  'content_know_one' => 'Somos una empresa orgullosamente mexicana creada hace 10 años. Estamos en constante crecimiento e implementación de nueva tecnología para brindar la perfecta  solución de conectividad Wifi VoIP y CCTV,  acompañada de las mejores opciones financieras para su empresa.',
+  'content_know_one' => 'Somos una empresa orgullosamente mexicana creada hace 10 años. Estamos en constante crecimiento e implementación de nueva tecnología para brindar la perfecta  solución de conectividad WiFi VoIP y CCTV,  acompañada de las mejores opciones financieras para su empresa.',
   'content_know_two' => 'Gracias a la aceptación y el reconocimiento de nuestros clientes actualmente contamos con oficinas en Ciudad de México, Cancún, Los Cabos, Puerto Vallarta, Costa Rica, República Dominicana, Jamaica y tenemos presencia en toda la República Mexicana.',
   //Servicios
   'title_two' => 'Servicios',
@@ -98,7 +98,7 @@ return [
   'title_seven' => 'Infraestructura',
   'content_seven' => 'Actualmente contamos y monitoreamos más de 1100 puntos de acceso en varias ciudades de la República. Estos puntos se encuentran instalados en más de 20 campus de las universidades privadas más importantes del país, con lo cual proporcionamos servicio a una matrícula de más de 100,000 estudiantes. Asimismo, SitWifi brinda atención a 48 hoteles 5 estrellas y Gran Turismo en Cancún, Riviera Maya, Jamaica, Los Cabos y Punta Cana cubriendo más de 25,000 habitaciones. De igual manera, los hospitales privados de mayor reputación de la Ciudad de México cuentan con nuestro servicio.',
   //Conocenos
-  'title_info_one' => '9 Años de experiencia.. pronto 10 años',
+  'title_info_one' => '10 Años de experiencia.',
   'cont_title_info_one' => '9 Años',
   'title_info_two' => '58 Hoteles en el Caribe y Latinoamérica',
   'title_info_three' => '5 Millones de turistas anuales.',
@@ -163,7 +163,7 @@ return [
   'cont_infrastructure_item_four' => 'Sobre nuestra infraestructura podemos implementar diferentes aplicaciones y soluciones de CCTV, voz, localización, entre otras, reduciendo costos.',
   //NPS
   'title_nps' => 'NPS',
-  'content_title_nps' => 'Net Promoter Score (Nps) es una herramienta que mide la lealtad de nuestros clientes, basandose en sus recomendaciones.',
+  'content_title_nps' => 'Net Promoter Score (Nps) es una herramienta que mide la lealtad de nuestros clientes, basándose en sus recomendaciones.',
   'title_puntacion' => 'Puntuación',
   'title_puntacion_mes' => 'Datos correspondientes a Mayo 2017',
   'title_puntacion_abrev' => 'Representación',
