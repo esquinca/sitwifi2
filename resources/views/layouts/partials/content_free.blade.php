@@ -6,7 +6,7 @@
       <div class="row">
           <div class="col-sm-6 wow fadeInLeft">
             <div class="contact_map_d">
-              <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=z2lSpWkpwaNQ.kMtm9x72XWqg" width="540" height="500"></iframe>
+              <iframe class="map" src="https://www.google.com/maps/d/u/1/embed?mid=1uTn4NdK8c8ppii79EIO-g318gi4" width="540" height="500"></iframe>
             </div>
           </div>
           <div class="col-sm-6">
@@ -34,7 +34,31 @@
                                 <td class="col-xs-6">Campeche</td><td class="col-xs-6">Zentralia Ciudad del Carmen</td>
                               </tr>
                               <tr>
+                                <td class="col-xs-6">Chiapas</td><td class="col-xs-6">Aeropuerto Internacional de Tapachula</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Quintana Roo</td><td class="col-xs-6">Aeropuerto Internacional de Cancun</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Quintana Roo</td><td class="col-xs-6">Aeropuerto Internacional de Cozumel</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Tabasco</td><td class="col-xs-6">Aeropuerto Internacional Carlos Rovirosa Perez</td>
+                              </tr>
+                              <tr>
                                 <td class="col-xs-6">Tabasco</td><td class="col-xs-6">Galerías Tabasco</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Veracruz</td><td class="col-xs-6">Aeropuerto Internacional de Minatitlan</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Veracruz</td><td class="col-xs-6">Aeropuerto Internacional General Heriberto Jara</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Veracruz</td><td class="col-xs-6">Central de Autobuses Veracruz</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Veracruz</td><td class="col-xs-6">Central de Autobuses xalapa</td>
                               </tr>
                               <tr>
                                 <td class="col-xs-6">Yucatán</td><td class="col-xs-6">Galerías Mérida</td>
@@ -64,6 +88,9 @@
                                 <td class="col-xs-6">Aguascalientes</td><td class="col-xs-6">Aeropuerto de Aguascalientes</td>
                               </tr>
                               <tr>
+                                <td class="col-xs-6">Aguascalientes</td><td class="col-xs-6">Centro Comercial Altacia</td>
+                              </tr>
+                              <tr>
                                 <td class="col-xs-6">Ciudad de México</td><td class="col-xs-6">Central de Autobuses Tapo</td>
                               </tr>
                               <tr>
@@ -85,6 +112,12 @@
                                 <td class="col-xs-6">Ciudad de México</td><td class="col-xs-6">Galerías Oasis Coyoacan</td>
                               </tr>
                               <tr>
+                                <td class="col-xs-6">Ciudad de México</td><td class="col-xs-6">Garden Santa Fe</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Ciudad de México</td><td class="col-xs-6">Parque Jardín</td>
+                              </tr>
+                              <tr>
                                 <td class="col-xs-6">Ciudad de México</td><td class="col-xs-6">Patio Universidad</td>
                               </tr>
                               <tr>
@@ -103,7 +136,22 @@
                                 <td class="col-xs-6">Guanajuato</td><td class="col-xs-6">Aeropuerto de Guanajuato</td>
                               </tr>
                               <tr>
+                                <td class="col-xs-6">Guanajuato</td><td class="col-xs-6">Centro Comercial Altacia</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Guanajuato</td><td class="col-xs-6">Centro Comercial Vía Alta Salamanca</td>
+                              </tr>
+                              <tr>
                                 <td class="col-xs-6">Guanajuato</td><td class="col-xs-6">Galerías Celaya</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Guerrero</td><td class="col-xs-6">Aeropuerto Internacional de Acapulco</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Guerrero</td><td class="col-xs-6">Aeropuerto Internacional de Zihuatanejo</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Guerrero</td><td class="col-xs-6">Central de Autobuses Chilpancingo</td>
                               </tr>
                               <tr>
                                 <td class="col-xs-6">Guerrero</td><td class="col-xs-6">Galerías Acapulco</td>
@@ -130,6 +178,15 @@
                                 <td class="col-xs-6">Morelos</td><td class="col-xs-6">Galerías Cuernavaca</td>
                               </tr>
                               <tr>
+                                <td class="col-xs-6">Oaxaca</td><td class="col-xs-6">Aeropuerto Internacional de Bahias de Huatulco</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Oaxaca</td><td class="col-xs-6">Aeropuerto Internacional de Xoxocotlan</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Puebla</td><td class="col-xs-6">Central de Autobuses Puebla</td>
+                              </tr>
+                              <tr>
                                 <td class="col-xs-6">Puebla</td><td class="col-xs-6">Galerías Puebla</td>
                               </tr>
                               <tr>
@@ -137,6 +194,12 @@
                               </tr>
                               <tr>
                                 <td class="col-xs-6">Querétaro</td><td class="col-xs-6">Galerías San Juan del Rio</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">San Luis Potosí</td><td class="col-xs-6">Aeropuerto Internacional de San Luis Potosí</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Zacatecas</td><td class="col-xs-6">Aeropuerto Internacional de Zacatecas</td>
                               </tr>
                               <tr>
                                 <td class="col-xs-6">Zacatecas</td><td class="col-xs-6">Galerías Zacatecas</td>
@@ -174,10 +237,25 @@
                                 <td class="col-xs-6">Baja California Sur</td><td class="col-xs-6">Aeropuerto de Los Cabos</td>
                               </tr>
                               <tr>
+                                <td class="col-xs-6">Chihuahua</td><td class="col-xs-6">Aeropuerto Internacional de Ciudad Juárez</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Chihuahua</td><td class="col-xs-6">Aeropuerto Internacional de Chihuahua</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Coahuila</td><td class="col-xs-6">Aeropuerto Internacional de Torreón</td>
+                              </tr>
+                              <tr>
                                 <td class="col-xs-6">Coahuila</td><td class="col-xs-6">Galerías Laguna</td>
                               </tr>
                               <tr>
                                 <td class="col-xs-6">Coahuila</td><td class="col-xs-6">Galerías Saltillo</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Durango</td><td class="col-xs-6">Aeropuerto Internacional de Durango</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Monterrey</td><td class="col-xs-6">Aeropuerto Internacional de Monterrey</td>
                               </tr>
                               <tr>
                                 <td class="col-xs-6">Nuevo León</td><td class="col-xs-6">Aeropuerto de Monterrey</td>
@@ -189,10 +267,22 @@
                                 <td class="col-xs-6">Sinaloa</td><td class="col-xs-6">Aeropuerto de Los Mochis</td>
                               </tr>
                               <tr>
+                                <td class="col-xs-6">Sinaloa</td><td class="col-xs-6">Aeropuerto Internacional de Culiacán</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Sinaloa</td><td class="col-xs-6">Aeropuerto Internacional de Mazatlán</td>
+                              </tr>
+                              <tr>
                                 <td class="col-xs-6">Sinaloa</td><td class="col-xs-6">Galerías Mazatlan</td>
                               </tr>
                               <tr>
                                 <td class="col-xs-6">Sonora</td><td class="col-xs-6">Aeropuerto de Hermosillo</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Tamaulipas</td><td class="col-xs-6">Aeropuerto Internacional de Reynosa</td>
+                              </tr>
+                              <tr>
+                                <td class="col-xs-6">Tamaulipas</td><td class="col-xs-6">Aeropuerto Internacional de Tampico</td>
                               </tr>
                             </tbody>
                           </table>

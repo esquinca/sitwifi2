@@ -20,8 +20,10 @@
                 <li class="scroll"><a href="#customers"><?php echo e(trans('text.customers')); ?></a></li>
                 <!--<li class="scroll"><a href="#products"><?php echo e(trans('text.title_four')); ?></a></li>-->
                 <li class="scroll"><a href="#infrastructure"><?php echo e(trans('text.infrastructure')); ?></a></li>
+                <li ><a href="http://wifimedia.mx/wifimedia.html" target="_blank"><?php echo e(trans('text.wifimedia')); ?></a></li>
                 <li class="scroll"><a href="#contfreewifi"><span class="fa fa-wifi" ></span></a></li>
                 <li class="scroll"><a href="#contactdos"><?php echo e(trans('text.contactanos')); ?></a></li>
+                <li ><a href="http://sitwificun.dyndns.org:8000/" target="_blank"><?php echo e(trans('text.inversionistas')); ?></a></li>
               </ul>
           </div>
       </div><!--/.container-->

@@ -22,6 +22,7 @@ return [
   'contactanos' => 'Contáctanos',
   'sabermas' => 'Saber Más',
   'testimonial' => 'Comentarios',
+  'inversionistas' => 'Inversionistas',
   //Title Banner
   'title_a' => 'Qué hacemos en Sitwifi',
   'content_five' => 'En Sitwifi desarrollamos y ejecutamos soluciones de conectividad WiFi, VoIP y CCTV en ambientes con alta densidad de usuarios. Nos encargamos de la administración, operación y mantenimiento de la infraestructura para proveer un servicio de alto desempeño y siempre disponible.',

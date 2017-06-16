@@ -20,8 +20,10 @@
                 <li class="scroll"><a href="#customers">{{ trans('text.customers')}}</a></li>
                 <!--<li class="scroll"><a href="#products">{{ trans('text.title_four')}}</a></li>-->
                 <li class="scroll"><a href="#infrastructure">{{ trans('text.infrastructure')}}</a></li>
+                <li ><a href="http://wifimedia.mx/wifimedia.html" target="_blank">{{ trans('text.wifimedia')}}</a></li>
                 <li class="scroll"><a href="#contfreewifi"><span class="fa fa-wifi" ></span></a></li>
                 <li class="scroll"><a href="#contactdos">{{ trans('text.contactanos')}}</a></li>
+                <li ><a href="http://sitwificun.dyndns.org:8000/" target="_blank">{{ trans('text.inversionistas')}}</a></li>
               </ul>
           </div>
       </div><!--/.container-->
