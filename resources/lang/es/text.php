@@ -75,7 +75,11 @@ return [
   'cont_subtitle_five_b' => 'Renta de equipo',
   'cont_subtitle_five_c' => 'Soporte técnico en sitio',
 
+  'subtitle_six' => 'Data off-load',
+  'cont_subtitle_six' => 'Tenemos la capacidad de proveer este servicio a través de nuestra infraestructura y el apoyo de un Carrier especializado, con el fin de que el usuario pueda seguir disfrutando de los beneficios en conectividad de su compañía celular como si estuviera en su lugar de origen.',
 
+  'subtitle_seven' => 'Roaming',
+  'cont_subtitle_seven' => 'A través de nuestra tecnología e infraestructura podemos proveer una conexión estable y segura para que el usuario final disfrute de una mejor experiencia sin perder conectividad de WiFi',
 
   'cont_now' => 'Contáctanos ahora',
 
@@ -172,5 +176,34 @@ return [
   'title_puntacion_hot' => 'Hotelería',
   'title_puntacion_edu' => 'Educación',
   'title_puntacion_cor' => 'Corporativo',
+  //Testimonios
+  'test_title_one'=> 'Hard Rock Hotel &Casino Punta Cana',
+  'test_pers_one' => 'Director de Operaciones',
+  'test_hard_rock'=> 'Los servicios prestados por la empresa SITWIFI, SA de C.V. han permitido el óptimo funcionamiento de la infraestructura contratada en nuestros hoteles y debido a la capacidad de su centro de soporte han logrado atender nuestras necesidades en tiempo y forma cuando han sido requeridas, sin tener inconvenientes durante el tiempo en que han prestado sus servicios a nuestra empresa, por lo que no tengo inconveniente en recomendarla como proveedor de servicios administrados de WI-FI.',
+
+  'test_title_two'=> 'Aliat Tuxtla',
+  'test_aliat_tuxtla' => 'Todo muy bien con el servicio, hemos tenido algunas incidencias y se les ha dado respuesta oportuna',
+
+  'test_title_three'=> 'Ocean Hotels',
+  'test_puest_three' => 'Director de Operaciones',
+  'test_pers_three' => 'José Alejandro González Pou',
+  'test_ocean_hotels' => 'Por medio de la presente me permito informarle que los servicios prestados por la empresa SITWIFI, SA de C.V. han permitido el óptimo funcionamiento de la infraestructura contratada en nuestros hoteles y debido a la capacidad de su centro de soporte han logrado atender nuestras necesidades en tiempo y forma cuando han sido requeridas, sin tener inconvenientes durante el tiempo en que han prestado sus servicios a nuestra empresa, por lo que no tengo inconveniente en recomendar a la empresa SITWIFI, S.A de C.V. como proveedor de servicios administrados en Wi-Fi.',
+
+  'test_title_four'=>   'UDLA',
+  'test_udla' => 'Rápida y eficiente atención, muchas gracias',
+
+  'test_title_five'=>   'Palace Resort, S.A. de C.V.',
+  'test_puest_five' => 'Gerente de Teconología de la Información.',
+  'test_pers_five' => ' Mario Olarte Quiroz',
+  'test_palace_resort' => 'Recomiendo ampliamente los servicios de SITWIFI, S.A DE C.V. como proveedor de servicios administrados en WIFI, el servicio prestado por esta empresa garantiza el funcionamiento de la infraestructura contratada y el centro de atención y soporte tiene la capacidad necesaria para atender nuestras necesidades de operación cuando son requeridas.',
+
+  'test_title_six'=>   'Aliat Tulancingo',
+  'test_aliat_tulancingo' => 'Siempre han atendido muy bien y nos dan solución muy rápido.',
+
+  'test_title_seven' => 'Iberostar Hotels & Resorts',
+  'test_puest_seven' => 'Directo IT México.',
+  'test_pers_seven' => 'Gustavo A. Madero Delgado',
+  'test_iberostar' => 'Mediante la presente, recomiendo ampliamente a la empresa de instalación y administración de servicios inalámbricos SITWIFI S.A de C.V.
+Tomando en cuenta la presencia de esta empresa en territorio nacional e internacional, con la puntualidad en la entrega de los productos e instalaciones solicitadas así como proveer productos de marcas altamente reconocidas en dicho ámbito “RUCKUS, CISCO” en adición de la rápida atención de su personal altamente cualificado, para la solución de “incidencias o mejoras” que se han requerido en nuestros complejos hoteleros',
 
 ];

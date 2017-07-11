@@ -5,6 +5,20 @@
         </div>
         <div class="row">
             <div class="features">
+
+                <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
+                  <div class="media service-box">
+                    <div class="pull-left">
+                      <i class="fa fa-upload"></i>
+                    </div>
+                    <div class="media-body">
+                      <h4 class="media-heading">{{ trans('text.subtitle_six')}}</h4>
+                      <p>{{ trans('text.cont_subtitle_six')}}</p>
+                      <a href="#contactdos"><p>{{ trans('text.cont_now')}}</p></a>
+                    </div>
+                  </div>
+                </div><!--/.col-md-4-->
+
                 <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
                   <div class="media service-box">
                     <div class="pull-left">
@@ -23,6 +37,20 @@
                     </div>
                   </div>
                 </div><!--/.col-md-4-->
+
+                <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
+                  <div class="media service-box">
+                    <div class="pull-left">
+                      <i class="fa fa-registered"></i>
+                    </div>
+                    <div class="media-body">
+                      <h4 class="media-heading">{{ trans('text.subtitle_seven')}}</h4>
+                      <p>{{ trans('text.cont_subtitle_seven')}}</p>
+                      <a href="#contactdos"><p>{{ trans('text.cont_now')}}</p></a>
+                    </div>
+                  </div>
+                </div><!--/.col-md-4-->
+
                 <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
                     <div class="media service-box">
                         <div class="pull-left">
@@ -44,7 +72,8 @@
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
-                <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
+
+                <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
                   <div class="media service-box">
                     <div class="pull-left">
                       <i class="fa fa-user-md"></i>
@@ -62,7 +91,7 @@
                     </div>
                   </div>
                 </div><!--/.col-md-4-->
-                <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
+                <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
                   <div class="media service-box">
                     <div class="pull-left">
                       <i class="fa fa-cubes"></i>
@@ -81,7 +110,7 @@
                     </div>
                   </div>
                 </div><!--/.col-md-4-->
-                <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
+                <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
                   <div class="media service-box">
                     <div class="pull-left">
                       <i class="fa fa-star"></i>
@@ -97,7 +126,6 @@
                     </div>
                   </div>
                 </div><!--/.col-md-4-->
-
 
             </div>
         </div><!--/.row-->

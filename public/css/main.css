@@ -89,6 +89,37 @@ hr {
   border-radius: 20px;
   background: #FD602D; /*Cambiar el circulo flotante de los titulos*/
 }
+.section-header .section-titled {
+  font-size: 40px;
+  color: #272727;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 20px;
+  margin: 0 0 20px;
+}
+.section-header .section-titled:before {
+  content: "";
+  position: absolute;
+  width: 140px;
+  bottom: 0;
+  left: 50%;
+  margin-left: -70px;
+  height: 1px;
+  background: #ebebeb;
+}
+.section-header .section-titled:after {
+  content: "";
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  bottom: -11px;
+  left: 50%;
+  margin-left: -12px;
+  border: 5px solid #fff;
+  border-radius: 20px;
+  background: #FD602D; /*Cambiar el circulo flotante de los titulos*/
+}
+
 .btn {
   border-width: 0;
   border-bottom-width: 3px;
@@ -552,9 +583,9 @@ span.title-wifi {
   transition: none;
 }
 #testimonial {
-  background: #333333 url(../images/testimonial/bg.jpg) no-repeat 0 0;
+  background: #333333 url(../images/testimonial/team.jpg) no-repeat 0 0;
   background-size: cover;
-  padding: 100px 0;
+  padding: 50px 0;
   color: #fff;
 }
 #testimonial h4 {

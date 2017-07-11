@@ -1,7 +1,7 @@
 <section id="infrastructure" >
     <div class="container">
         <div class="section-header">
-            <h2 class="section-title text-center wow fadeInDown"><?php echo e(trans('text.infrastructure')); ?></h2>
+            <h2 class="section-titled text-center wow fadeInDown"><?php echo e(trans('text.infrastructure')); ?></h2>
             <p class="text-center wow fadeInDown"><?php echo e(trans('text.cont_infrastructure')); ?></p>
         </div>
 
