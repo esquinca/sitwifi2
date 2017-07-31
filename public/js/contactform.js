@@ -109,6 +109,12 @@ jQuery(document).ready(function($) {
                     if(msg == 'OK') {
                         $("#sendmessage").addClass("show");
                         $("#errormessage").removeClass("show");
+                        $("#contactForm")[0].reset();
+                        // $("name").val('');
+                        // $("empresa").val('');
+                        // $("email").val('');
+                        // $("number").val('');
+                        // $("producto").val('');
                     }
                     else {
                         $("#sendmessage").removeClass("show");

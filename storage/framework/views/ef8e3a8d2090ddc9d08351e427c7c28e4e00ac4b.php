@@ -12,7 +12,7 @@
           <div class="contact-form">
            <div id="sendmessage2">Your message has been sent. Thank you!</div>
            <div id="errormessage2"></div>
-           <form action="" method="post" role="form" class="FormForm">
+           <form action="" method="post" role="form" class="FormForm" id="FormForm">
                <?php echo e(csrf_field()); ?>
 
                 <div class="col-md-6 padding-right-zero">
