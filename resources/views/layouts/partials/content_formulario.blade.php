@@ -2,6 +2,7 @@
   <div class="container">
     <div class="section-header">
         <h2 class="section-title text-center wow fadeInDown">{{ trans('text.soporte')}}</h2>
+        <p class="text-center wow fadeInDown">{{ trans('text.content_soporte_one')}}</p>
     </div>
     <div class="row">
         <div class="col-sm-12 wow fadeInLeft">

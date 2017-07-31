@@ -207,4 +207,6 @@ return [
   'test_iberostar' => 'Mediante la presente, recomiendo ampliamente a la empresa de instalación y administración de servicios inalámbricos SITWIFI S.A de C.V.
 Tomando en cuenta la presencia de esta empresa en territorio nacional e internacional, con la puntualidad en la entrega de los productos e instalaciones solicitadas así como proveer productos de marcas altamente reconocidas en dicho ámbito “RUCKUS, CISCO” en adición de la rápida atención de su personal altamente cualificado, para la solución de “incidencias o mejoras” que se han requerido en nuestros complejos hoteleros',
 
+//Soporte
+  'content_soporte_one' => 'Si cuenta con soporte SITWIFI, aqui puede mandarnos una incidencia directamente a nuestro equipo de soporte las 24hrs.',
 ];
