@@ -1,101 +1,4 @@
 <?php return array (
-  'cache' => 
-  array (
-    'default' => 'file',
-    'stores' => 
-    array (
-      'apc' => 
-      array (
-        'driver' => 'apc',
-      ),
-      'array' => 
-      array (
-        'driver' => 'array',
-      ),
-      'database' => 
-      array (
-        'driver' => 'database',
-        'table' => 'cache',
-        'connection' => NULL,
-      ),
-      'file' => 
-      array (
-        'driver' => 'file',
-        'path' => '/var/www/html/sitwifi2/storage/framework/cache',
-      ),
-      'memcached' => 
-      array (
-        'driver' => 'memcached',
-        'servers' => 
-        array (
-          0 => 
-          array (
-            'host' => '127.0.0.1',
-            'port' => 11211,
-            'weight' => 100,
-          ),
-        ),
-      ),
-      'redis' => 
-      array (
-        'driver' => 'redis',
-        'connection' => 'default',
-      ),
-    ),
-    'prefix' => 'laravel',
-  ),
-  'database' => 
-  array (
-    'fetch' => 8,
-    'default' => 'mysql',
-    'connections' => 
-    array (
-      'sqlite' => 
-      array (
-        'driver' => 'sqlite',
-        'database' => 'homestead',
-        'prefix' => '',
-      ),
-      'mysql' => 
-      array (
-        'driver' => 'mysql',
-        'host' => '127.0.0.1',
-        'port' => '3306',
-        'database' => 'homestead',
-        'username' => 'homestead',
-        'password' => 'secret',
-        'charset' => 'utf8',
-        'collation' => 'utf8_unicode_ci',
-        'prefix' => '',
-        'strict' => false,
-        'engine' => NULL,
-      ),
-      'pgsql' => 
-      array (
-        'driver' => 'pgsql',
-        'host' => '127.0.0.1',
-        'port' => '3306',
-        'database' => 'homestead',
-        'username' => 'homestead',
-        'password' => 'secret',
-        'charset' => 'utf8',
-        'prefix' => '',
-        'schema' => 'public',
-      ),
-    ),
-    'migrations' => 'migrations',
-    'redis' => 
-    array (
-      'cluster' => false,
-      'default' => 
-      array (
-        'host' => '127.0.0.1',
-        'password' => NULL,
-        'port' => '6379',
-        'database' => 0,
-      ),
-    ),
-  ),
   'app' => 
   array (
     'env' => 'local',
@@ -170,6 +73,203 @@
       'View' => 'Illuminate\\Support\\Facades\\View',
     ),
   ),
+  'database' => 
+  array (
+    'fetch' => 8,
+    'default' => 'mysql',
+    'connections' => 
+    array (
+      'sqlite' => 
+      array (
+        'driver' => 'sqlite',
+        'database' => 'homestead',
+        'prefix' => '',
+      ),
+      'mysql' => 
+      array (
+        'driver' => 'mysql',
+        'host' => '127.0.0.1',
+        'port' => '3306',
+        'database' => 'homestead',
+        'username' => 'homestead',
+        'password' => 'secret',
+        'charset' => 'utf8',
+        'collation' => 'utf8_unicode_ci',
+        'prefix' => '',
+        'strict' => false,
+        'engine' => NULL,
+      ),
+      'pgsql' => 
+      array (
+        'driver' => 'pgsql',
+        'host' => '127.0.0.1',
+        'port' => '3306',
+        'database' => 'homestead',
+        'username' => 'homestead',
+        'password' => 'secret',
+        'charset' => 'utf8',
+        'prefix' => '',
+        'schema' => 'public',
+      ),
+    ),
+    'migrations' => 'migrations',
+    'redis' => 
+    array (
+      'cluster' => false,
+      'default' => 
+      array (
+        'host' => '127.0.0.1',
+        'password' => NULL,
+        'port' => '6379',
+        'database' => 0,
+      ),
+    ),
+  ),
+  'languageswitcher' => 
+  array (
+    'switchPath' => 'lang',
+    'store' => 'session',
+    'key' => 'language',
+    'redirect' => 'back',
+    'redirect_route' => '/',
+  ),
+  'broadcasting' => 
+  array (
+    'default' => 'pusher',
+    'connections' => 
+    array (
+      'pusher' => 
+      array (
+        'driver' => 'pusher',
+        'key' => NULL,
+        'secret' => NULL,
+        'app_id' => NULL,
+        'options' => 
+        array (
+        ),
+      ),
+      'redis' => 
+      array (
+        'driver' => 'redis',
+        'connection' => 'default',
+      ),
+      'log' => 
+      array (
+        'driver' => 'log',
+      ),
+    ),
+  ),
+  'cache' => 
+  array (
+    'default' => 'file',
+    'stores' => 
+    array (
+      'apc' => 
+      array (
+        'driver' => 'apc',
+      ),
+      'array' => 
+      array (
+        'driver' => 'array',
+      ),
+      'database' => 
+      array (
+        'driver' => 'database',
+        'table' => 'cache',
+        'connection' => NULL,
+      ),
+      'file' => 
+      array (
+        'driver' => 'file',
+        'path' => '/var/www/html/sitwifi2/storage/framework/cache',
+      ),
+      'memcached' => 
+      array (
+        'driver' => 'memcached',
+        'servers' => 
+        array (
+          0 => 
+          array (
+            'host' => '127.0.0.1',
+            'port' => 11211,
+            'weight' => 100,
+          ),
+        ),
+      ),
+      'redis' => 
+      array (
+        'driver' => 'redis',
+        'connection' => 'default',
+      ),
+    ),
+    'prefix' => 'laravel',
+  ),
+  'queue' => 
+  array (
+    'default' => 'sync',
+    'connections' => 
+    array (
+      'sync' => 
+      array (
+        'driver' => 'sync',
+      ),
+      'database' => 
+      array (
+        'driver' => 'database',
+        'table' => 'jobs',
+        'queue' => 'default',
+        'expire' => 60,
+      ),
+      'beanstalkd' => 
+      array (
+        'driver' => 'beanstalkd',
+        'host' => 'localhost',
+        'queue' => 'default',
+        'ttr' => 60,
+      ),
+      'sqs' => 
+      array (
+        'driver' => 'sqs',
+        'key' => 'your-public-key',
+        'secret' => 'your-secret-key',
+        'prefix' => 'https://sqs.us-east-1.amazonaws.com/your-account-id',
+        'queue' => 'your-queue-name',
+        'region' => 'us-east-1',
+      ),
+      'redis' => 
+      array (
+        'driver' => 'redis',
+        'connection' => 'default',
+        'queue' => 'default',
+        'expire' => 60,
+      ),
+    ),
+    'failed' => 
+    array (
+      'database' => 'mysql',
+      'table' => 'failed_jobs',
+    ),
+  ),
+  'session' => 
+  array (
+    'driver' => 'file',
+    'lifetime' => 120,
+    'expire_on_close' => false,
+    'encrypt' => false,
+    'files' => '/var/www/html/sitwifi2/storage/framework/sessions',
+    'connection' => NULL,
+    'table' => 'sessions',
+    'lottery' => 
+    array (
+      0 => 2,
+      1 => 100,
+    ),
+    'cookie' => 'laravel_session',
+    'path' => '/',
+    'domain' => NULL,
+    'secure' => false,
+    'http_only' => true,
+  ),
   'auth' => 
   array (
     'defaults' => 
@@ -242,6 +342,29 @@
       'secret' => NULL,
     ),
   ),
+  'mail' => 
+  array (
+    'driver' => 'smtp',
+    'host' => 'smtp.gmail.com',
+    'port' => '587',
+    'from' => 
+    array (
+      'address' => 'contactoweb@sitwifi.com',
+      'name' => 'Contacto Web',
+    ),
+    'encryption' => 'tls',
+    'username' => 'contactoweb@sitwifi.com',
+    'password' => 'Paginacontacto',
+    'sendmail' => '/usr/sbin/sendmail -bs',
+  ),
+  'view' => 
+  array (
+    'paths' => 
+    array (
+      0 => '/var/www/html/sitwifi2/resources/views',
+    ),
+    'compiled' => '/var/www/html/sitwifi2/storage/framework/views',
+  ),
   'filesystems' => 
   array (
     'default' => 'local',
@@ -267,129 +390,6 @@
         'region' => 'your-region',
         'bucket' => 'your-bucket',
       ),
-    ),
-  ),
-  'languageswitcher' => 
-  array (
-    'switchPath' => 'lang',
-    'store' => 'session',
-    'key' => 'language',
-    'redirect' => 'back',
-    'redirect_route' => '/',
-  ),
-  'mail' => 
-  array (
-    'driver' => 'smtp',
-    'host' => 'smtp.gmail.com',
-    'port' => '587',
-    'from' => 
-    array (
-      'address' => 'contactoweb@sitwifi.com',
-      'name' => 'Contacto Web',
-    ),
-    'encryption' => 'tls',
-    'username' => 'contactoweb@sitwifi.com',
-    'password' => 'Paginacontacto',
-    'sendmail' => '/usr/sbin/sendmail -bs',
-  ),
-  'session' => 
-  array (
-    'driver' => 'file',
-    'lifetime' => 120,
-    'expire_on_close' => false,
-    'encrypt' => false,
-    'files' => '/var/www/html/sitwifi2/storage/framework/sessions',
-    'connection' => NULL,
-    'table' => 'sessions',
-    'lottery' => 
-    array (
-      0 => 2,
-      1 => 100,
-    ),
-    'cookie' => 'laravel_session',
-    'path' => '/',
-    'domain' => NULL,
-    'secure' => false,
-    'http_only' => true,
-  ),
-  'view' => 
-  array (
-    'paths' => 
-    array (
-      0 => '/var/www/html/sitwifi2/resources/views',
-    ),
-    'compiled' => '/var/www/html/sitwifi2/storage/framework/views',
-  ),
-  'broadcasting' => 
-  array (
-    'default' => 'pusher',
-    'connections' => 
-    array (
-      'pusher' => 
-      array (
-        'driver' => 'pusher',
-        'key' => NULL,
-        'secret' => NULL,
-        'app_id' => NULL,
-        'options' => 
-        array (
-        ),
-      ),
-      'redis' => 
-      array (
-        'driver' => 'redis',
-        'connection' => 'default',
-      ),
-      'log' => 
-      array (
-        'driver' => 'log',
-      ),
-    ),
-  ),
-  'queue' => 
-  array (
-    'default' => 'sync',
-    'connections' => 
-    array (
-      'sync' => 
-      array (
-        'driver' => 'sync',
-      ),
-      'database' => 
-      array (
-        'driver' => 'database',
-        'table' => 'jobs',
-        'queue' => 'default',
-        'expire' => 60,
-      ),
-      'beanstalkd' => 
-      array (
-        'driver' => 'beanstalkd',
-        'host' => 'localhost',
-        'queue' => 'default',
-        'ttr' => 60,
-      ),
-      'sqs' => 
-      array (
-        'driver' => 'sqs',
-        'key' => 'your-public-key',
-        'secret' => 'your-secret-key',
-        'prefix' => 'https://sqs.us-east-1.amazonaws.com/your-account-id',
-        'queue' => 'your-queue-name',
-        'region' => 'us-east-1',
-      ),
-      'redis' => 
-      array (
-        'driver' => 'redis',
-        'connection' => 'default',
-        'queue' => 'default',
-        'expire' => 60,
-      ),
-    ),
-    'failed' => 
-    array (
-      'database' => 'mysql',
-      'table' => 'failed_jobs',
     ),
   ),
 );

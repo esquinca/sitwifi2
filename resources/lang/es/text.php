@@ -20,6 +20,7 @@ return [
   'solutions' => 'Soluciones',
   'about' => 'Contamos',
   'contactanos' => 'Contáctanos',
+  'soporte' => 'Soporte',
   'sabermas' => 'Saber Más',
   'testimonial' => 'Comentarios',
   'inversionistas' => 'Inversionistas',
