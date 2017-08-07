@@ -14,7 +14,7 @@
           <div class="contact-form">
            <div id="sendmessage">Your message has been sent. Thank you!</div>
            <div id="errormessage"></div>
-           <form action="" method="post" role="form" class="contactForm">
+           <form action="" method="post" role="form" class="contactForm" id="contactFormmail" name="contactFormmail">
                <?php echo e(csrf_field()); ?>
 
                <div class="col-md-6 padding-right-zero">

@@ -33,6 +33,8 @@
     <?php echo $__env->make('layouts.partials.content_nps', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
     <!--Contact - Contacto-->
     <?php echo $__env->make('layouts.partials.content_contact', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+    <!--Formulario Zendesk -->
+    <?php echo $__env->make('layouts.partials.content_zendesk', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
   <!-- Contains page content -->
 
   <!--Footer - Pie de página-->

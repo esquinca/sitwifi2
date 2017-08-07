@@ -33,6 +33,8 @@
     @include('layouts.partials.content_nps')
     <!--Contact - Contacto-->
     @include('layouts.partials.content_contact')
+    <!--Formulario Zendesk -->
+    @include('layouts.partials.content_zendesk')
   <!-- Contains page content -->
 
   <!--Footer - Pie de página-->
