@@ -17,4 +17,3 @@ Route::get('/', function () {
 */
 Route::get('/',  'sitwifiController@index');
 Route::post('/sendEmail', 'ContactoController@postEmail');
-Route::post('/sendForm', 'FormularioController@postForm');

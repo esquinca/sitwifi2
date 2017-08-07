@@ -14,7 +14,11 @@
           <div class="contact-form">
            <div id="sendmessage">Your message has been sent. Thank you!</div>
            <div id="errormessage"></div>
+<<<<<<< HEAD
            <form action="" method="post" role="form" class="contactForm" id="contactFormmail" name="contactFormmail">
+=======
+           <form action="" method="post" role="form" class="contactForm" id="contactForm">
+>>>>>>> master
                {{ csrf_field() }}
                <div class="col-md-6 padding-right-zero">
                    <div class="form-group">
@@ -58,7 +62,7 @@
 
                <div class="col-md-12 padding-right-zero">
                  <div class="form-group">
-                       <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Por favor escriba su mensaje." placeholder="Su mensaje."></textarea>
+                       <textarea class="form-control" name="message" id="message" rows="5" data-rule="required" data-msg="Por favor escriba su mensaje." placeholder="Su mensaje."></textarea>
                        <div class="validation"></div>
                    </div>
                  <button type="submit" class="btn btn-primary btn-submit">Enviar</button>

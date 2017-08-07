@@ -34,7 +34,11 @@
     <!--Contact - Contacto-->
     @include('layouts.partials.content_contact')
     <!--Formulario Zendesk -->
+<<<<<<< HEAD
     @include('layouts.partials.content_zendesk')
+=======
+    @include('layouts.partials.content_formulario')
+>>>>>>> master
   <!-- Contains page content -->
 
   <!--Footer - Pie de página-->
