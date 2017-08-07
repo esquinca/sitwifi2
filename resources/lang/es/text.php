@@ -209,8 +209,5 @@ Tomando en cuenta la presencia de esta empresa en territorio nacional e internac
 
 //Soporte
   'content_soporte_one' => 'Si cuenta con soporte SITWIFI, aqui puede mandarnos una incidencia directamente a nuestro equipo de soporte las 24hrs.',
-<<<<<<< HEAD
   'soportezend' => 'Soporte Zendesk',
-=======
->>>>>>> master
 ];

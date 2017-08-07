@@ -34,11 +34,7 @@
     <!--Contact - Contacto-->
     <?php echo $__env->make('layouts.partials.content_contact', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
     <!--Formulario Zendesk -->
-<<<<<<< HEAD
     <?php echo $__env->make('layouts.partials.content_zendesk', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
-=======
-    <?php echo $__env->make('layouts.partials.content_formulario', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
->>>>>>> master
   <!-- Contains page content -->
 
   <!--Footer - Pie de página-->

@@ -389,12 +389,8 @@ span.title-wifi {
   padding: 100px 0;
   background: #f5f5f5;
 }
-<<<<<<< HEAD
 
 #contacttres{
-=======
-#formulario{
->>>>>>> master
   padding: 100px 0;
 }
 #contfreewifi {
@@ -1063,7 +1059,6 @@ Google Maps contactos
     font-weight:600;
     margin-bottom:15px;
 }
-<<<<<<< HEAD
 
 #sendmessage2 {
   color: green;
@@ -1074,18 +1069,6 @@ Google Maps contactos
   font-weight:600;
   margin-bottom:15px;
 }
-=======
-#sendmessage2 {
-    color: green;
-    border:1px solid green;
-    display:none;
-    text-align:center;
-    padding:15px;
-    font-weight:600;
-    margin-bottom:15px;
-}
-
->>>>>>> master
 #errormessage2 {
     color: red;
     display:none;
@@ -1095,10 +1078,7 @@ Google Maps contactos
     font-weight:600;
     margin-bottom:15px;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> master
 /**********************************
 Responsivo de tabla de zonas free
 **********************************/

@@ -3,11 +3,7 @@ jQuery(document).ready(function($) {
 "use strict";
 
     //Contact
-<<<<<<< HEAD
     $('form.contactFormzend').submit(function(){
-=======
-    $('form.FormForm').submit(function(){
->>>>>>> master
 
         var f = $(this).find('.form-group'),
         ferror = false,
@@ -113,15 +109,7 @@ jQuery(document).ready(function($) {
                     if(msg == 'OK') {
                         $("#sendmessage2").addClass("show");
                         $("#errormessage2").removeClass("show");
-<<<<<<< HEAD
                         $("#contactzend")[0].reset();
-=======
-                        $("#FormForm")[0].reset();
-                        // $("email").val('');
-                        // $("name").val('');
-                        // $("asunto").val('');
-                        // $("message").val('');
->>>>>>> master
                     }
                     else {
                         $("#sendmessage2").removeClass("show");
